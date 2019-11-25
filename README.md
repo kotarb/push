@@ -9,6 +9,8 @@ adres mailowy, klucz publiczny i prywatny z #1
 subskrypcję wklejasz jako jsona po prostu
 i treść wiadomości
 
-###3 leci
+###3. composer install
+
+###4 leci
 
 php run.php
