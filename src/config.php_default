@@ -1,0 +1,11 @@
+<?php
+
+return [
+    'vapid' => [
+        'email' => '',
+        'publicKey' => '',
+        'privateKey' => ''
+    ],
+    'subscription' => '',
+    'message' => 'Treść wiadomości!'
+];
