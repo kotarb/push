@@ -1,8 +1,10 @@
-###1. potrzebujesz kluczy VAPID
+###1. composer install
+
+###2. potrzebujesz kluczy VAPID
 
 web-push generate-vapid-keys
 
-###2. konfiguracja
+###3. konfiguracja
 
 src/config.php_default -> src/config.php
 
@@ -12,8 +14,6 @@ subskrypcję wklejasz jako jsona po prostu
 
 i treść wiadomości
 
-###3. composer install
-
-###4 leci
+###4. leci
 
 php run.php
